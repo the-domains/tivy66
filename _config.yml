@@ -1,14 +1,28 @@
+name: Tivy66
+favicon: null
 layout_spectrum: 0.5418904
+typography_spectrum: 0.9113855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9683136
-  brandStrength: 0.7663802
-  lightness: 0.08216969
   brandColors:
     - '#FFFFFF'
     - '#CFBDA3'
     - '#5C4C39'
     - '#92887F'
     - '#C56539'
+  brandStrength: 0.7663802
+  lightness: 0.08216969
+  saturation: 0.9683136
   rhythmicContrast: 0.5064447
-typography_spectrum: 0.9113855
-name: Tivy66
+purpose: []
